@@ -10,7 +10,7 @@ cd "C:\XXXXXX\InterviewTests-master\InterviewTests-master\data"
 
 Then run the following commands:
 
-conda env create -f environment.yml
+conda env create -f monolith_environment.yml
 
 conda activate monolith_env
 
